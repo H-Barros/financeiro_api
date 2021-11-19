@@ -13,7 +13,7 @@ Projeto de fictício com a finalidade de simular um sistema de controle financei
 
 ### Objetivo
 
-Utilizar vários métodos HTTP para criar, atualizar, deletar e selecionar contas financeiras
+Utilizar os métodos HTTP para criar, atualizar, deletar e selecionar contas financeiras
 
 <h3>
   Como iniciar?
