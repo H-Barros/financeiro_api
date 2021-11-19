@@ -19,8 +19,8 @@ Utilizar vários métodos HTTP para criar, atualizar, deletar e selecionar conta
   Como iniciar?
 </h3>
 <ol>
-  <li>Instale as dependencias com:`yarn`</li>
-  <li>Rode as migrations com:`yarn typeorm migration:run`</li>
-  <li>Inicie o projeto com:`yarn dev`</li>
+  <li>Instale as dependencias com:"yarn"</li>
+  <li>Rode as migrations com:"yarn typeorm migration:run"</li>
+  <li>Inicie o projeto com:"yarn dev"</li>
   <li>Utilize um software para testar os endpoints</li>
 </ol>
