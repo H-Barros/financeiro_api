@@ -20,6 +20,7 @@ Utilizar vários métodos HTTP para criar, atualizar, deletar e selecionar conta
 </h3>
 <ol>
   <li>Instale as dependencias com:"yarn"</li>
+  <li>Configure usuário, senha e porta do Postgres no arquivo ormconfig.json</li>
   <li>Rode as migrations com:"yarn typeorm migration:run"</li>
   <li>Inicie o projeto com:"yarn dev"</li>
   <li>Utilize um software para testar os endpoints</li>
