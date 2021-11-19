@@ -3,7 +3,7 @@
    "host": "localhost",
    "port": 5432,
    "username": "postgres",
-   "password": "cap-9216",
+   "password": "123456789",
    "database": "financeiro",
    "synchronize": true,
    "logging": false,
